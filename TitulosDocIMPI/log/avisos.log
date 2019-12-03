@@ -1,0 +1,5 @@
+[2019-11-26 18:00:26] [ ERROR] [DocumentoProcessor:47] Error al leer documento 
+[2019-11-26 18:00:28] [ ERROR] [DocumentoProcessor:47] Error al leer documento 
+[2019-11-26 18:00:28] [ ERROR] [DocumentoProcessor:47] Error al leer documento 
+[2019-11-26 18:00:28] [ ERROR] [DocumentoProcessor:47] Error al leer documento 
+[2019-11-26 18:00:28] [ ERROR] [DocumentoProcessor:90] Error al leer documento org.apache.poi.openxml4j.exceptions.InvalidFormatException: Package should contain a content type part [M1.13]
